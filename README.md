@@ -1,4 +1,8 @@
 # KikNameChecker
+
+!THIS ONLY CHECKS WS2.KIK.COM ENDPOINT!
+\ Will add user inputted endpoints thing \
+
 A (probably) working Kik name checker
 
 Started as a supposedly simple project,
